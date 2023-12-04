@@ -20,8 +20,6 @@ To talk to the bot either in a server or in DM, use command `!gub` followed by t
 
 ## I am a developer and want to make my own version
 
-Given that you can host a php website, there are some relatively easy steps to take if you want to make a version of this game yourself.
-
 -   You have to make a discord bot by going to [Discord's websites](https://discord.com/developers)
 -   Clone this project
 -   Run `composer update` in the root of the project. (Get [composer](https://getcomposer.org/) if you don't have it installed)
